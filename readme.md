@@ -1,0 +1,1 @@
+This webpage is dynamic page that has details about my background and has an webpage that displays the total cost of the rooms that a customer want to stay in.I have used HTML,CSS and JAVASCRIPT to implement these functions.  

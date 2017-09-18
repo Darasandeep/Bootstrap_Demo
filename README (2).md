@@ -1,0 +1,1 @@
+This is an application which is used to calculate the cost of hotel room
